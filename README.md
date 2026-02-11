@@ -1,7 +1,7 @@
 README - Script-8.sql
 
 Descripcion
-Este repositorio contiene un script SQL para crear y poblar una base de datos de ejemplo llamada HealthTrackDB. El script define tablas de pacientes, doctores y citas, inserta datos ficticios y ejecuta consultas basicas.
+Este repositorio contiene un script SQL para crear y poblar una base de datos de ejemplo llamada HealthTrackDB. El script define tablas de pacientes, doctores y citas, inserta datos ficticios y ejecuta consultas basicas. sisisisi
 
 Archivo principal
 - [Script-8.sql](Script-8.sql)
