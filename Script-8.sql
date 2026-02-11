@@ -27,7 +27,7 @@ CREATE TABLE doctors (
     is_active BOOLEAN DEFAULT true
 );
 
--- Tabla: appointments
+-- Tabla: appointments de los appointments
 CREATE TABLE appointments (
     appointment_id SERIAL PRIMARY KEY,
     patient_id INT REFERENCES patients(patient_id),
